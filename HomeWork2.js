@@ -7,3 +7,7 @@ for(let char of fruits){
 for(let char in fruits){
     console.log(char);
 }
+
+for(let index in "Owen"){
+    console.log("test");
+}
